@@ -1,0 +1,91 @@
+body{
+background-color:#aaa;
+color:#222;*/
+font-family: Arial,Helvetica,sans-serif;
+
+}
+header{
+background-color: #333;
+}
+header nav{
+max-width: 1200px;
+margin: 0 auto;
+}
+header nav ul{
+padding: 0;
+margin:0;
+overflow: auto;
+}
+header nav ul li{
+list-style: none;
+float:right;
+}
+header nav ul li a{
+color: #ccc;
+padding: 20px;
+float:right;
+font-size: 14px;
+text-decoration: none;
+}
+header nav ul li a:hover{
+color: cyan;
+}
+.container{
+color: #fff;
+max-width: 1200px;
+margin:0 auto;
+padding-bottom: 0;
+/*background: url(https://cdn2.vectorstock.com/i/1000x1000/03/86/blue-background-with-stars-vector-4790386.jpg);*/
+}
+.container h1{
+padding: 0;
+margin: 0;
+}
+footer{
+font-size: 12px;
+text-align: center;
+padding: 50px 0;
+color:#fff;
+}
+
+body{
+    font-family:sans-serif;
+    color:#777777;
+    line-height:26px;
+    align:center;
+}
+ .purple-color{
+    color:#8845f4;
+ }
+ .half-width{
+     width:50%;
+     float:left;
+ }
+ .side-img{
+     width:50%;
+     padding-left:25%;
+ }
+ .primary-btn{
+     color:white;
+     background-color:#8845f4;
+     padding:13px 42px;
+     border-radius:20px;
+     text-decoration:none;
+ }
+ h1{
+     font-size:2.5em;
+ }
+ .container{
+     padding-left:2%;
+     display:block;
+ }
+ .experiences{
+     padding:30px;
+     margin:30px;
+     background-color:black;
+     border-radius:20px;    
+ }
+ .experience-item{
+     padding:10px;
+     border-left:1px solid rgba(137,130,247,.2);
+ }
